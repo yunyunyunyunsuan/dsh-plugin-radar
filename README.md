@@ -18,11 +18,13 @@ DeepSeek Harness 插件：定时扫描 GitHub 上 `topic:dsh-plugin` 的插件�
 
 ## 安装
 
+已发布 npm（`dsh-plugin-radar@0.4.0`），直接：
+
 ```sh
 dsh plugin --profile web add dsh-plugin-radar
 ```
 
-然后在 profile 的 `cordis.patch.yml` 中加入：
+或在 profile 目录手动 `pnpm add dsh-plugin-radar`，然后在 profile 的 `cordis.patch.yml` 中加入：
 
 ```yaml
 - insert:
