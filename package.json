@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-radar",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "description": "DSH 插件雷达：定时扫描 GitHub 上 topic:dsh-plugin 的新插件，在 DeepSeek Harness Web 界面左下角推送卡片流，支持 README 关键词搜索与一键安装。",
   "license": "MIT",
   "type": "module",
