@@ -4,7 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/dsh-plugin-radar.svg)](https://www.npmjs.com/package/dsh-plugin-radar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-DeepSeek Harness（DSH）插件市场雷达：**开箱即见** GitHub 上全部 `topic:dsh-plugin` 插件（4700+），定时增量扫描新插件，卡片流浏览 + README 关键词搜索 + 一键安装/更新/卸载，翻译与 AI 摘要走**你自己 DSH 配置的模型额度**，插件自身零 API 成本。
+DeepSeek Harness（DSH）插件市场雷达：**开箱即见** GitHub 上全部 `topic:dsh-plugin` 插件（7000+），定时增量扫描新插件，卡片流浏览 + README 关键词搜索 + 一键安装/更新/卸载，翻译与 AI 摘要走**你自己 DSH 配置的模型额度**，插件自身零 API 成本。
 
 ## 界面一览
 
@@ -13,7 +13,7 @@ DeepSeek Harness（DSH）插件市场雷达：**开箱即见** GitHub 上全部 
 | 页签 | 内容 |
 |---|---|
 | **最近 3 天** | 信息流：仅近 3 天的仓库，可切「新建仓库 / 更新仓库」两种视角 |
-| **全部** | 完整索引（4700+），支持星数范围筛选（★ 最低–最高）与排序（按时间 / ★ 高→低） |
+| **全部** | 完整索引（7000+），支持星数范围筛选（★ 最低–最高）与排序（按时间 / ★ 高→低） |
 | **已安装插件 · N** | 已装插件管理：更新检测（npm 源，有新版显示「↑ 更新 x.x.x」）、一键删除 |
 | **推荐插件** | 按主题精选（界面美化/换肤、IDE 化界面、视觉方案、桌面/启动器、记忆/知识库），只推**确认可安装的真 dsh 插件** |
 
